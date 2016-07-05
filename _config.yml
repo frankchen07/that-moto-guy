@@ -11,7 +11,7 @@ author_gravatar:    bfa1c9eacfc94a1b62f3a39b574480c6 # Gravatar md5 hash
 twitter_username:   
 
 # Site Settings
-baseurl:            "https://frankchen07.github.com/that-moto-guy" # Base URL must end WITHOUT a slash, default: ""
+baseurl:            "/that-moto-guy" # Base URL must end WITHOUT a slash, default: ""
 permalink:          /:title # Post permalink
 timezone:           US/Pacific # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
