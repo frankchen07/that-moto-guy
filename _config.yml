@@ -1,0 +1,55 @@
+# Site Info
+title:              "That Moto Guy"
+description:        "Life on two wheels."
+google_verify:      # Put your Google Verification here
+google_analytics:   # Put your Google Analytics code
+
+# Author Info
+author_name:        "Moto Guy"
+author_email:       
+author_gravatar:    bfa1c9eacfc94a1b62f3a39b574480c6 # Gravatar md5 hash
+twitter_username:   
+
+# Site Settings
+baseurl:            "/that-moto-guy" # Base URL must end WITHOUT a slash, default: ""
+permalink:          /:title # Post permalink
+timezone:           US/Pacific # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Site Build
+highlighter:        rouge
+#markdown:           redcarpet
+#redcarpet:
+#    extensions:     ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "highlight", "footnotes"]
+markdown:           kramdown
+kramdown:
+    input:          GFM
+sass:
+    style:          :compressed
+
+# Other Params
+include:            [ "robots.txt" ]
+exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
+gems:
+  - jekyll-sitemap
+
+compress_html:
+    clippings:      all
+    ingore:
+        envs:       [ "test" ]
+
+defaults:
+  -
+    scope:
+      path:         ""
+    values:
+      layout:       "null"
+  -
+    scope:
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      type:         "posts"
+    values:
+      layout:       "post"
