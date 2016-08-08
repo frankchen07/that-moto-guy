@@ -1,9 +1,9 @@
 ---
-title: Learning to Ride
+title: Learning to Moto
 updated: 2011-09-16 12:00
 ---
 
-> "So, what's the process for learning how to ride?"
+> "So, what's the process for learning how to moto (ride)?"
 
 I get this question alot. So, I'm going to tell you what kind of options you got, and then you can decide which option is the best.
 
@@ -13,7 +13,7 @@ I get this question alot. So, I'm going to tell you what kind of options you got
 
 If you've got $250-$300 spare dollars lying around, you can take the [MSF Basic Rider Course](http://www.msf-usa.org/brc.aspx) (Motorcycle Safety Foundation). They assume you're coming in with nothing but your pants and some kind of idea that you want to ride a motorcycle. 
 
-Prerequisite experience is not needed, although probably being proficient on a bicycle helps. Prerequisite money is required. They provide you with helmet, bike, educational courses, and riding instruction, from scratch. You take home instructional materials, new motorcycling skills, a card signifying you passed the riding portion of the test (or not), and the raging desire to buy a bike so you can start riding (or not). 
+Prerequisite experience is not needed, although probably being proficient on a bicycle helps. Prerequisite money is required. They provide you with helmet, moto, educational courses, and riding instruction, from scratch. You take home instructional materials, new motorcycling skills, a card signifying you passed the riding portion of the test (or not), and the raging desire to buy a moto so you can start riding (or not). 
 
 <div class="divider"></div>
 
@@ -39,7 +39,7 @@ Passing the MSF riding test allows you to skip the DMV riding test (which is a b
 
 1. You pay monies. 
 
-2. You might run into arrogant, egotistical assholes who think they don't need the course cause they spent a couple of hours on a friend's bike. They will be the first to eat pavement. Try not to laugh out loud.
+2. You might run into arrogant, egotistical assholes who think they don't need the course cause they spent a couple of hours on a friend's motorcycle. They will be the first to eat pavement. Try not to laugh out loud.
 
 3. You get arrested for Sharpie-ing an "M" on your license. 
 
