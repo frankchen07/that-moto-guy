@@ -7,7 +7,7 @@ After getting a [motorcycle license](https://frankchen07.github.io/that-moto-guy
 
 I could spend all my time and turn this post into one of those "top 10 beginner motorcycles" kind of bullshit post, but I won't. I'll instead, share some musings from my early moto (and also now moto) days that will hopefully organize your moto purchasing process. You're going to ask yourself three questions.
 
-> At this moment in time, given your life circumstances, what kind of motorcycle does your gut tell you that you want? 
+> At this moment in time, given your life circumstances, what kind of moto does your gut tell you that you want? 
 
 Your gut, for the most part, factors in the "how cool is the moto you want" sort of feeling. That's basically a catch-all phrase to describe personal preference (e.g "your moto is fugly, but mine is awesome."). The rest is a bunch of general specifications that vary in the degree of compromise you're willing to give or take. Some of these include:
 
