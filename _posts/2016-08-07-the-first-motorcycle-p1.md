@@ -1,6 +1,6 @@
 ---
-title: The First Motorcycle - Part I 
-updated: 2011-08-07 
+title: Your First Motorcycle - Part I 
+updated: 2016-08-07 
 ---
 
 After getting a [motorcycle license](https://frankchen07.github.io/that-moto-guy/learning-to-ride), a new moto-er still has to find a moto and buy some gear. This entails doing some research, knowing what you want, and buying a motorcycle that is appropriate for your wallet and skill level. 
@@ -85,4 +85,4 @@ You're probably thinking to yourself, "how much can I get away with?" I cannot w
 
 Above all, your brain is the biggest piece of gear. You are the risk-taker. You decide how responsible or careless you will be on a moto. You can wear the best gear available to mankind, but nothing will save you from poor decisions. Wearing gear doesn't mean you can let the throttle rip and lane split at 150 mph. Gear is to protect you, not a substitute for using good judgment. 
 
-There are ways to find great deals and still get a good amount of protection. You can buy used gear (just not used helmets, please), but it's up to you to be smart about how that gear was treated and cared for, and if it was ever crashed in. Read reviews, ask good questions from sellers, and look out for yourself. Quality and honesty first. You owe it to yourself.
+There are ways to find great deals and still get a good amount of protection. You can buy used gear (just not used helmets, please), but it's up to you to be smart about how that gear was treated and cared for, and if it was ever crashed in. Read reviews, ask good questions from sellers, and look out for yourself. Quality and honesty first.

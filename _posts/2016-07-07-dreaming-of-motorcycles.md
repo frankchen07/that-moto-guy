@@ -31,9 +31,9 @@ blowing by us at 30+ the posted limit. My mother would scream in Chinese "HOLY S
 
 <div class="divider"></div>
 
-Moving on. College. I worked under that graduate student I mentioned previously (if you're reading this - HI! Hope you're still moto-ing). She rode a big ass green Kawasaki ZX6R with lots of horsepower that she named "Bulbasaur". She did trackdays, had a tracksuit - you know, the works. Pictures to prove it and the skills to back it up. She had balls that some grown men didn't. 
+Moving on. College. I worked under that graduate student I mentioned previously (if you're reading this - HI! Hope you're still moto-ing). She (let's call her "E") rode a big ass green Kawasaki ZX6R with lots of horsepower that she named "Bulbasaur". She did trackdays, had a tracksuit - you know, the works. Pictures to prove it and the skills to back it up. E had balls that some grown men didn't. 
 
-One day we're sitting around in the microbiology lab, shooting the shit. I'm doing Schwarzenegger impressions. She's actually doing work whilst snacking on pound cake (like a boss), and we get on the topic of counter-steering.
+One day we're sitting around in the microbiology lab, shooting the shit. I'm doing Schwarzenegger impressions. E's actually doing work whilst snacking on pound cake (like a boss), and we get on the topic of counter-steering.
 
 "HUWAHUH! GET TO THE CHOPPA!"  
 
@@ -45,6 +45,6 @@ Turns out ... I was **WRONG**.
 
 <div class="divider"></div>
 
-My friend gently nudged me in the direction of the [Motorcycle Safety Foundation's (MSF) Basic Rider Course](http://www.msf-usa.org/brc.aspx) (as a consolation pat on the head for being an idiot), and as a legitimate method of learning how to moto. 
+E gently nudged me in the direction of the [Motorcycle Safety Foundation's (MSF) Basic Rider Course](http://www.msf-usa.org/brc.aspx) (as a consolation pat on the head for being an idiot), and as a legitimate method of learning how to moto. 
 
 At the time, it was 2008. It took me 3 years to make a decision that still brings me joy to this day.
