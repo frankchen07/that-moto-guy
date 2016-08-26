@@ -65,19 +65,20 @@ Now:
 
 1. Shoei RF-1200 Helmet + Photochromic Visor ($600)
 2. Alpinestars Royal Drystar Jacket ($250)
-3. Alpinestars BioArmor - chest, shoulders, elbows, back ($130)
-3. Helimot HI5 Gloves - ($300) 
-4. Tourmaster Overpants - ($150)
-5. Forcefield Armor - hips, knees ($80)
-6. Alpinestars SMX Plus Goretex boots ($350)
-7. Olympia Rain Jacket & Pants ($150) for rainy days
-8. Reflective vest ($6)
-9. Earplugs - pack of 200 ($15)
-10. My brain (more experienced, more priceless) 
+3. Alpinestars BioArmor - chest, shoulders, elbows ($80) 
+4. Forcefield Back Protector L2K Evo ($200)
+5. Helimot HI5 Gloves - ($300) 
+6. Tourmaster Overpants - ($150)
+7. Forcefield Armor - hips, knees ($80)
+8. Alpinestars SMX Plus Goretex boots ($350)
+9. Olympia Rain Jacket & Pants ($150) for rainy days
+10. Reflective vest ($6)
+11. Earplugs - pack of 200 ($15)
+12. My brain (more experienced, more priceless) 
 
 <div class="divider"></div>
 
-Right now, all my gear combined is worth ~$1,800 (and/or priceless, if you factor in that pretty brain). And not to frighten you, but if you want to do trackdays, feel free to add another $2,000 or so for tracksuits and track gear. As you can see, protection adds up. It sucks, I know, but it is **important**. 
+Right now, all my gear combined is worth ~$2,000 (and/or priceless, if you factor in that pretty brain). And not to frighten you, but if you want to do trackdays, feel free to add another $2,000 or so for tracksuits, track gear, and miscellaneous costs. As you can see, protection adds up. It sucks, I know, but it is **important**. 
 
 Think of it this way. You can build your moto-ing skills. You can be a super-proficient moto-er in traffic. You can speed up, quick stop, swerve, dodge, corner, and identify potent road hazards. You can be the best damn moto-er in your local area. But you can't prevent the texting drivers, the clueless lane switchers, and red-light running assholes that can mess your shit up. **That** is why I gear the fuck up. That money spent is essentially life insurance, the only buffer zone from a costly hospital visit or death.
 
