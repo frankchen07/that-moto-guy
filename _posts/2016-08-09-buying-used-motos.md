@@ -1,5 +1,5 @@
 ---
-title: Your First Motorcycle - Part II
+title: Buying a Used Moto
 updated: 2016-08-12
 ---
 

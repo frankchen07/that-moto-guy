@@ -9,4 +9,4 @@ I write here to share things that I've learned on the back of two wheels - the f
 
 As many mothers would say, "bicycling through a city is dangerous enough, and now you want to straddle something three hundred pounds heavier, fifty times louder, and probably a two hundred times faster?"
 
-Ya. I do.
+Ya. We do.
