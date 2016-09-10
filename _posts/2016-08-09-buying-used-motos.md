@@ -83,7 +83,7 @@ Check the seller's name on the title against the seller's drivers license name a
 
 There should be no bullshit about "oh, it's my brother's bike, I'm selling it for him." Nope. Seller should be the name on the title otherwise he/she does not have the right to sell the bike. 
 
-Make sure they (one or both owners) sign the front middle of the title where it says to sign over their rights as owner. The lienholder needs to sign the front bottom right as well - if the title is clean and in hand, the owner is the lienholder. There will also be an initial area for confirmation that the odometer readings match. On the back, you'll sign the title in the new owner section (on the back). You can prep a separate bill of sale to confirm the transaction as well, but the title is most important. 
+Make sure they (one or both owners) sign the front middle of the title where it says to sign over their rights as owner. The lienholder needs to sign the front bottom right as well - if the title is clean and in hand, there is no lienholder. There will also be an initial area for confirmation that the odometer readings match. On the back, you'll sign the title in the new owner section (on the back). You can prep a separate bill of sale to confirm the transaction as well, but the title is most important. 
 
 ![title_example](https://raw.githubusercontent.com/frankchen07/that-moto-guy/gh-pages/images/blog/082616_dmv_title_example_courtesy_ca_gov.png)
 
