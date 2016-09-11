@@ -77,7 +77,7 @@ If you don't like it, don't buy it. Is it a deal breaker for you? Not "ehh maybe
 
 > **"the title was clean and in the guy's hand, and there were no outstanding liens on the bike."** 
 
-Good and good. The safest and best way is always the official DMV title in the seller's hand, and not having to deal with liens. [^0]
+Good and good. The safest and best way is always the official DMV title in the seller's hand, and not having to deal with liens. [^1]
 
 Check the seller's name on the title against the seller's drivers license name and check the the moto VIN number (on the steering neck and/or frame) against the title's VIN number. Also check that the written odometer recording is the same as the odometer reading on the actual moto. Everything on the title should match up correctly with official identification, VERBATIM. Get a copy of his/her license for backup.
 
@@ -157,7 +157,7 @@ Don't be like me. Take a breath. You'll get to moto soon. It's important to use 
 
 1. Be courteous. Thank the owner for taking the time to meet. Let em' know that you'll be asking questions and checking out the condition of the moto.
 
-2. Ask to see the clean title. If he/she lied about having it in hand, or if it's a salvage title when they claimed it was clean, or if it's on lien, leave. [^1]
+2. Ask to see the clean title. If he/she lied about having it in hand, or if it's a salvage title when they claimed it was clean, or if it's on lien, leave. [^2]
 
 3. Check that the owner's full name is on the moto title and the owner's drivers license. They should match, verbatim. If not, they are not legally allowed to sell the moto. Leave.
     
@@ -291,7 +291,7 @@ Don't be like me. Take a breath. You'll get to moto soon. It's important to use 
 
 #### Negotiate ...
 
-1. If you've taken good notes on the condition, you'll know what to highlight here in terms of things that need replacing, cosmetics or damage that you feel you'll need to fix up before moto-ing, and the worthiness of the moto. [^2]
+1. If you've taken good notes on the condition, you'll know what to highlight here in terms of things that need replacing, cosmetics or damage that you feel you'll need to fix up before moto-ing, and the worthiness of the moto. [^3]
 
 2. Aftermarket parts or performance parts or fancy-schmancy parts do not make a moto any more valuable.
 
@@ -311,9 +311,9 @@ The checklist is long. It is an involved process. I've done my very best to dist
 
 Go find your perfect moto!
 
-[^0]: Next installment will have more on liens n' shit. Avoid dealing with it if you don't want complications.
+[^1]: Next installment will have more on liens n' shit. Avoid dealing with it if you don't want complications.
 
-[^1]: Technically, you can proceed here if you know what you're doing, but leaving because of a lien is for the least amount of hassle - more details in the next installment.
+[^2]: Technically, you can proceed here if you know what you're doing, but leaving because of a lien is for the least amount of hassle - more details in the next installment.
 
-[^2]: A next-next installment post? about negotiating moto prices and a breakdown of service costs that you can cite, if the owner sucked at doing maintenance. 
+[^3]: A next-next installment post? about negotiating moto prices and a breakdown of service costs that you can cite, if the owner sucked at doing maintenance. 
 
