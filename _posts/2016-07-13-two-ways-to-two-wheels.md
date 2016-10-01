@@ -1,5 +1,5 @@
 ---
-title: Learning to Moto: Two Ways to Two Wheels
+title: Two Ways to Two Wheels
 updated: 2011-09-16 12:00
 ---
 

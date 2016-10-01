@@ -1,9 +1,9 @@
 ---
-title: The One that Got Away: Your First Moto
+title: The Moto that Got Away
 updated: 2016-08-07 
 ---
 
-After getting a [motorcycle license](https://frankchen07.github.io/that-moto-guy/learning-to-ride), a new moto-er still has to find a moto and buy some gear. This entails doing some research, knowing what you want, and buying a motorcycle that is appropriate for your wallet and skill level. 
+After getting a [motorcycle license](https://frankchen07.github.io/that-moto-guy/learning-to-ride), a new moto-er still has to find their **_first moto_**. This entails doing some research, knowing what you want, and buying a motorcycle that is appropriate for your wallet and skill level. 
 
 I could spend all my time and turn this post into one of those "top 10 beginner motorcycles" kind of bullshit post, but I won't. I'll instead, share some musings from my early moto (and also now moto) days that will hopefully organize your moto purchasing process. You're going to ask yourself three questions.
 
