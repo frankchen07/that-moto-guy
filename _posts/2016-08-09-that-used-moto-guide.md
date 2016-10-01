@@ -1,5 +1,5 @@
 ---
-title: Buying a Used Moto
+title: That Used Moto Guide
 updated: 2016-08-12
 ---
 
