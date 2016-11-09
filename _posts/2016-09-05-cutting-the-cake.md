@@ -23,7 +23,7 @@ As I've commuted more and more (commuting = daily riding in shit-ified, angry, i
 
 <div class="divider"></div>
 
-Let's go over some scenarios. I'll make this fun. Imagine 4 lanes of cars; cars denoted by `-` and `^` for stopped and moving, respectively, and you by `M`. Cars switching lanes left and right are denoted by `<` and `>`.
+Let's go over some scenarios. I'll make this fun. Imagine 4 lanes of cars; cars denoted by `-` and `^` for stopped and moving, respectively, and you by `M`. Cars switching lanes left and right are denoted by `<` and `>`. Oh, read the images bottom to top.
 
 **Scenario time. Lane splitting when ...**
 
