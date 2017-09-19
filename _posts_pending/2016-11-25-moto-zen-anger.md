@@ -3,7 +3,30 @@ title: Learning to Ride
 updated: 2011-09-16 12:00
 ---
 
-moto-post: who I was
+Recently, I've been using my motorcycle commute as a way to train mysef for observance on the other side of the road, where motorcyclists usually wave at me, but sometimes I don't wave back (simply because I'm not paying attention).
+
+Call it motorcycle therapy or something - consciously waving to other riders is the absolute lowest rung on the ladder in terms of social interaction. You're acknowledging another rider, by waving, offering the peace sign, smiling (but they can't see you anyway) - you're saying hello. 
+
+I do feel shitty when I wave at someone, only for them to not wave back .It could have easily been riders not paying attention t watching other riders because they're too busy not getting killed on the road. If that's the case fine. If you're also the type of person that doesn't wave, and has some kinf of legit reason for it, also fine. I would like to make the argument that waving is predictable. 
+
+I wave to tther cars and riders, and in expectation, I would think that whoever is underneath the helmet and the armor is capable of empathy - after all, how bad could a guy be if he waves ast you? The spectrum most likely varies, but the atitude and perception certaintly is positive for wavers compared to non-wavers.
+
+Anywho, I've made it a thing to wave more to other riders. I already do so quite frequently for cars, since most of them get the hell out of my way when I come rumblin around the mountain. Riders are tougher for me. For some reason, my peripheral vision finds it tough to catch other riders unless I've activitly trying really hard.
+
+My wave usually then comes out as a brief stubbed twitch of the arm, which most likely makes the other person think that I was either not paying attention or something. 
+
+It's also quite hard to figure out when motorcyclists are looking at you. With all of the tinted visors, I really don't know if you're looking at me. I assume they can see me and I wave anyway.
+
+The interesting rule that naturally arises from this is the fact that being friendly despite the speed, the brevity, and the anomyonoity is crucial when on a motorcycle. I see it to be no diffferent from the actions I would and will take in real life (not on the back of a motorcycle).
+
+So would motorcycling and waving on a motorcycle be the entry point for developing a habit of acknowledgment, friendliness, and non bitch-face? Only time will tell. 
+
+For now, I'll continue waving enthusiastically, just to feel a stronger connection to humans and feelin' good.
+
+
+Using moto zen to conquer the fear of reaching out and connecting with people. Waving is the start of 
+
+
 
 moto-ing highlights the qualities that are found within a particular person
 
@@ -23,134 +46,3 @@ React. Be good at moto-ing. Then, friendly wave. :D
 
 So, how does all of this relate to your temperament in your life? Hopefully these types of habits on the moto transfers to how you act and react to things that happen. 
 
-
-who was I when I first considered it
-
-it was a bit heart wrenching to see the bike go - I was moving to New York. I thought I would never ride again. 
-
-what did I become while I was doing it
-
-who am I now?
-
-
-
-
-
-> This is Markdown Cheatsheet Demo for **The Plain**, this Jekyll theme. Please check the raw content of this file for the markdown usage.
-
-## Typography Elements in One
-
-Let's start with a informative paragraph. **This text is bolded.** But not this one! _How about italic text?_ Cool right? Ok, let's **_combine_** them together. Yeah, that's right! I have code to highlight, so `ThisIsMyCode()`. What a nice! Good people will hyperlink away, so [here we go](#) or [http://www.example.com](http://www.example.com).
-
-<div class="divider"></div>
-
-## Headings H1 to H6
-
-# H1 Heading
-
-## H2 Heading
-
-### H3 Heading
-
-#### H4 Heading
-
-##### H5 Heading
-
-###### H6 Heading
-
-<div class="divider"></div>
-
-## Footnote
-
-Let's say you have text that you want to refer with a footnote, you can do that too! This is an example for the footnote number one [^1]. You can even add more footnotes, with link! [^2]
-
-<div class="divider"></div>
-
-## Blockquote
-
-> Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible. --Francis of Assisi
-
-**NOTE:** This theme does NOT support nested blockquotes.
-
-<div class="divider"></div>
-
-## List Items
-
-1. First order list item
-2. Second item
-
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
-
-<div class="divider"></div>
-
-## Code Blocks
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-```
-No language indicated, so no syntax highlighting.
-But let's throw in a <b>tag</b>.
-```
-
-<div class="divider"></div>
-
-## Table
-
-### Table 1: With Alignment
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-### Table 2: With Typography Elements
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-<div class="divider"></div>
-
-## Horizontal Line
-
-The HTML `<hr>` element is for creating a "thematic break" between paragraph-level elements. In markdown, you can create a `<hr>` with any of the following:
-
-* `___`: three consecutive underscores
-* `---`: three consecutive dashes
-* `***`: three consecutive asterisks
-
-renders to:
-
-___
-
----
-
-***
-
-<div class="divider"></div>
-
-## Media
-
-### YouTube Embedded Iframe
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n1a7o44WxNo" frameborder="0" allowfullscreen></iframe>
-
-### Image
-
-![Minion](http://octodex.github.com/images/minion.png)
-
-[^1]: Footnote number one yeah baby!
-
-[^2]: A footnote you can link to - [click here!](#)
